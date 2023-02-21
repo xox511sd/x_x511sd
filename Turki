@@ -31,7 +31,42 @@ Section:NewButton("Emotes script", "", function()
 end)
 local Section = myh:NewSection("V نادره مره بمابات الا يشتغل ما هاذا سكربت V")
 
-Section:NewButton("neko hub", "", function()
-    require(0x22330bb15).Hotladiesinyourarea("x_x511sd")
+Section:NewButton("مدري جبته من دسكورد يقول يطير ناس", "", function()
+    local bodyvel_Name = "FlingVelocity"
+local userinputs = game:GetService("UserInputService")
+local w = game:GetService("Workspace")
+local r = game:GetService("RunService")
+local d = game:GetService("Debris")
+local strength = 850
+ 
+w.ChildAdded:Connect(function(model)
+    if model.Name == "GrabParts" then
+        local part_to_impulse = model["GrabPart"]["WeldConstraint"].Part1
+ 
+        if part_to_impulse then
+            print("Part found!")
+ 
+            local inputObj
+            local velocityObj = Instance.new("BodyVelocity", part_to_impulse)
+
+            model:GetPropertyChangedSignal("Parent"):Connect(function()
+                if not model.Parent then
+                    if userinputs:GetLastInputType() == Enum.UserInputType.MouseButton2 then
+                        print("Launched!")
+                        velocityObj.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+                        velocityObj.Velocity = workspace.CurrentCamera.CFrame.lookVector * strength
+                        d:AddItem(velocityObj, 1)
+                    elseif userinputs:GetLastInputType() == Enum.UserInputType.MouseButton1 then
+                        velocityObj:Destroy()
+                        print("Cancel Launch!")
+                    else
+                        velocityObj:Destroy()
+                        print("No two keys pressed!")
+                    end
+                end
+            end)
+        end
+    end
+end)
 end)
 local Section = myh:NewSection(" شكرا لانك استخدمت سكربت :D")
