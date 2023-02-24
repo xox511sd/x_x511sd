@@ -69,4 +69,7 @@ w.ChildAdded:Connect(function(model)
     end
 end)
 end)
+Section:NewButton("راقدول سكربت", "", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/H20CalibreYT/731b5052013a54de121debdd5e43fa6d/raw/"))()
+end)
 local Section = myh:NewSection(" شكرا لانك استخدمت سكربت :D")
