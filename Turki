@@ -1,46 +1,192 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Turki's script", "LightTheme")
-local haayyuu = Window:NewTab("! علي اضغط سكربت نورت")
-local tgrbhss = Window:NewTab("هنا سكربتات")
-local nothing = Window:NewTab(":D سكربت استخدمت لانك شكرا")
 
-local haayyuu = haayyuu:NewSection("V سنابي V")
-local haayyuu = haayyuu:NewSection("t44006")
-local haayyuu = haayyuu:NewSection("V الاصلي حسابي V")
-local haayyuu = haayyuu:NewSection("x_x511sd")
-local haayyuu = haayyuu:NewSection("V مايك حسابي V")
-local haayyuu = haayyuu:NewSection("3ilx_T1")
-local haayyuu = haayyuu:NewSection("V ديسكورد V")
-local haayyuu = haayyuu:NewSection("ABU RANEEM#1913")
+--MAIN
+local main = Window:NewTab("! علي اضغط سكربت نورت")
 
-tgrbhss:NewButton("البيوت سكرب", "", function()
+local mainSection = main:NewSection("V سنابي V")
+local mainSection = main:NewSection("t44006")
+local mainSection = main:NewSection("V الاصلي حسابي V")
+local mainSection = main:NewSection("x_x511sd")
+local mainSection = main:NewSection("V مايك حسابي V")
+local mainSection = main:NewSection("3ilx_T1")
+local mainSection = main:NewSection("V ديسكورد V")
+local mainSection = main:NewSection("ABU RANEEM#1913")
+local mainSection = main:NewSection(""قلي سكربت احط تبيني لو"")
+
+--LOCAL SCRIPT
+local script = Window:NewTab("سكربتات")
+local scriptSection = script:NewSection("سكربتاتي")
+
+scriptSection:NewButton("البيوت سكرب", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
 
-tgrbhss:NewButton("الادمن سكربت", "", function()
+scriptSection:NewButton("الادمن سكربت", "", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
 end)
 
-tgrbhhs:NewButton("سكربت IV ADMIN", "", function()
+scriptSection:NewButton("سكربت IV ADMIN", "", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hexx/main/Iv%20Admin/Admin%202.lua'))()
 end)
 
-tgrbhss:NewButton("Emotes script", "", function()
+scriptSection:NewButton("Emotes script", "", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/zJA7jdUd"))()
 end)
 
-tgrbhss:NewButton("راقدول سكربت", "", function()
+scriptSection:NewButton("راقدول سكربت", "", function()
     loadstring(game:HttpGet("https://gist.githubusercontent.com/H20CalibreYT/731b5052013a54de121debdd5e43fa6d/raw/"))()
 end)
 
-tgrbhss:NewButton("real VR script", "", function()
+scriptSection:NewButton("real VR script", "", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/vD8bS42i"))()
 end)
 
-tgrbhss:NewButton("Survive and Kill the Killers in Area51", "", function()
+scriptSection:NewButton("Survive and Kill the Killers in Area51", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-tgrbhss:NewButton("Fly for Android", "", function()
+scriptSection:NewButton("Fly for Android", "", function()
     loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+end)
+
+--Other
+local nothing = Window:NewTab(":D سكربت استخدمت لانك شكرا")
+local nothingSection = nothing:NewSection("اغاني اكواد")
+local nothingSection = nothing:NewSection("Relaxed Scene
+
+1848354536
+
+
+Parry Gripp - Raining Tacos
+
+142376088
+
+
+All Dropping 8 Bit Beats
+
+9048375035
+
+
+Diamonds
+
+1846575559
+
+
+Lo-fi Chill A
+
+9043887091
+
+
+All 8 Bit Now
+
+9048376021
+
+
+No Smoking
+
+9047105533
+
+
+Dombummel
+
+1845736826
+
+
+Smooth Vibes (c)
+
+9044565954
+
+
+Violet Clouds
+
+9046864489
+
+
+Sunday In Bed
+
+9047104336
+
+
+HORROR SCREAM 11مرعب صراخ 
+
+9043346124
+
+
+Glamour International (b)
+
+1842333602
+
+
+حزينه اجنبيه اغنيه
+6872126938 
+
+HOT HOT HOT !
+6783714255 
+
+money 
+840080899 
+
+سيارات ازعاجج  ! هههه
+1735260932 
+
+freeee
+4829702007
+
+مزعج قطار 
+3900067524 
+
+ERROR Windows 7
+ 1166082641 
+
+Samsung 
+1107208252 
+
+
+black bere WhatsApp 
+6073491164 
+
+صراخ
+8280196339 
+
+ban ?
+8819733010 
+
+ضعيف طرب
+6893776529 
+
+دباب (عن عن عن عننن)
+6491883020
+
+
+SUS 
+7083210943 
+
+فورتنايت باتل باس SPAM
+8835210928
+
+هديها شوي لانه كرسي بينشق تحتك من كثر ما انت شاد عليها (دحومي 999)
+7644757406
+
+FNF واقعي برد رد 
+6874146452 
+
+sans loob ?
+8310237390 
+
+قتل كيوت 1sec 
+7257241917 
+
+دادي عند تعال  
+7984027399 
+
+تشاااان اونيي 
+8833800231
+
+انيـ# اختـ# دلال سب 
+5849978429 
+
+! خكري خكري عيال يا يبيه الي
+5561403815")
+
 end)
