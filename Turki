@@ -57,7 +57,7 @@ end)
 --Other
 local nothing = Window:NewTab(":D سكربت استخدمت لانك شكرا")
 local nothingSection = nothing:NewSection("اغاني اكواد")
-local nothingSection = nothing:NewSection("Relaxed Scene
+local nothingSection = nothing:NewSection("Relaxed Scene")
 
 local nothingSection = nothing:NewSection("1848354536")
 
