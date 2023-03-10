@@ -12,7 +12,7 @@ local MainSection = Main:NewSection("V مايك حسابي V")
 local MainSection = Main:NewSection("3ilx_T1")
 local MainSection = Main:NewSection("V ديسكورد V")
 local MainSection = Main:NewSection("ABU RANEEM#1913")
-local MainSection = Main:NewSection(""قلي سكربت احط تبيني لو"")
+local MainSection = Main:NewSection("قلي سكربت احط تبيني لو")
 
 --LOCAL SCRIPT
 local script = Window:NewTab("سكربتات")
