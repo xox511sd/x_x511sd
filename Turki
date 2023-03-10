@@ -2,17 +2,17 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("Turki's script", "LightTheme")
 
 --MAIN
-local main = Window:NewTab("! علي اضغط سكربت نورت")
+local Main = Window:NewTab("! علي اضغط سكربت نورت")
 
-local mainSection = main:NewSection("V سنابي V")
-local mainSection = main:NewSection("t44006")
-local mainSection = main:NewSection("V الاصلي حسابي V")
-local mainSection = main:NewSection("x_x511sd")
-local mainSection = main:NewSection("V مايك حسابي V")
-local mainSection = main:NewSection("3ilx_T1")
-local mainSection = main:NewSection("V ديسكورد V")
-local mainSection = main:NewSection("ABU RANEEM#1913")
-local mainSection = main:NewSection(""قلي سكربت احط تبيني لو"")
+local MainSection = Main:NewSection("V سنابي V")
+local MainSection = Main:NewSection("t44006")
+local MainSection = Main:NewSection("V الاصلي حسابي V")
+local MainSection = Main:NewSection("x_x511sd")
+local MainSection = Main:NewSection("V مايك حسابي V")
+local MainSection = Main:NewSection("3ilx_T1")
+local MainSection = Main:NewSection("V ديسكورد V")
+local MainSection = Main:NewSection("ABU RANEEM#1913")
+local MainSection = Main:NewSection(""قلي سكربت احط تبيني لو"")
 
 --LOCAL SCRIPT
 local script = Window:NewTab("سكربتات")
@@ -55,203 +55,197 @@ local nothing = Window:NewTab(":D سكربت استخدمت لانك شكرا")
 local nothingSection = nothing:NewSection("اغاني اكواد")
 local nothingSection = nothing:NewSection("Relaxed Scene
 
-1848354536
+local nothingSection = nothing:NewSection("1848354536")
 
+local nothingSection = nothing:NewSection("Parry Gripp - Raining Tacos")
 
-Parry Gripp - Raining Tacos
+local nothingSection = nothing:NewSection("142376088")
 
-142376088
+local nothingSection = nothing:NewSection("All Dropping 8 Bit Beats")
 
+local nothingSection = nothing:NewSection("9048375035")
 
-All Dropping 8 Bit Beats
+local nothingSection = nothing:NewSection("Diamonds")
 
-9048375035
+local nothingSection = nothing:NewSection("1846575559")
 
+local nothingSection = nothing:NewSection("Dele Mami D ريمكس")
 
-Diamonds
+local nothingSection = nothing:NewSection("9043893278")
 
-1846575559
+local nothingSection = nothing:NewSection("Jayingee Yelling MOM I'M RECORDING! (Warning Loud)")
 
+local nothingSection = nothing:NewSection("2401760595")
 
-Dele Mami D ريمكس
+local nothingSection = nothing:NewSection("يلحقود")
 
-9043893278
+local nothingSection = nothing:NewSection("4533138868")
 
+local nothingSection = nothing:NewSection("داعش")
 
-Jayingee Yelling MOM I'M RECORDING! (Warning Loud)
+local nothingSection = nothing:NewSection("901842963")
 
-2401760595
+local nothingSection = nothing:NewSection("ضرب")
 
+local nothingSection = nothing:NewSection("9117969687")
 
-يلحقود
+local nothingSection = nothing:NewSection("Arabic Words (TN) بودن😈💢 ) سب")
 
-4533138868
+local nothingSection = nothing:NewSection("4984286551")
 
+local nothingSection = nothing:NewSection("Baby Goats 3 (SFX) 51 sec")
 
-داعش
+local nothingSection = nothing:NewSection("9112743999")
 
-901842963
+local nothingSection = nothing:NewSection("Baby Goats 43 (SFX)")
 
+local nothingSection = nothing:NewSection("9113237616")
 
-ضرب
+local nothingSection = nothing:NewSection("Baby Goats 22 (SFX) 2 sec")
 
-9117969687
+local nothingSection = nothing:NewSection("9113236414")
 
+local nothingSection = nothing:NewSection("MEME (It Is What It Is)")
 
-Arabic Words (TN) بودن😈💢 ) سب
+local nothingSection = nothing:NewSection("5023804206")
 
-4984286551
+local nothingSection = nothing:NewSection("im-a-gnome-meme-sound-effect-woo")
 
+local nothingSection = nothing:NewSection("5151347446")
 
-Baby Goats 3 (SFX) 51 sec
+local nothingSection = nothing:NewSection("Meow!!!!!")
 
-9112743999
+local nothingSection = nothing:NewSection("723824843")
 
+local nothingSection = nothing:NewSection("Wey Noooo [MEME]")
 
-Baby Goats 43 (SFX)
+local nothingSection = nothing:NewSection("4907294065")
 
-9113237616
+local nothingSection = nothing:NewSection("Lo-fi Chill A")
 
+local nothingSection = nothing:NewSection("9043887091")
 
-Baby Goats 22 (SFX) 2 sec
+local nothingSection = nothing:NewSection("All 8 Bit Now")
 
-9113236414
+local nothingSection = nothing:NewSection("9048376021")
 
+local nothingSection = nothing:NewSection("No Smoking")
 
-MEME (It Is What It Is)
+local nothingSection = nothing:NewSection("9047105533")
 
-5023804206
+local nothingSection = nothing:NewSection("Dombummel")
 
+local nothingSection = nothing:NewSection("1845736826")
 
-im-a-gnome-meme-sound-effect-woo
+local nothingSection = nothing:NewSection("Smooth Vibes (c)")
 
-5151347446
+local nothingSection = nothing:NewSection("9044565954")
 
+local nothingSection = nothing:NewSection("Violet Clouds")
 
-Meow!!!!!
+local nothingSection = nothing:NewSection("9046864489")
 
-723824843
+local nothingSection = nothing:NewSection("Sunday In Bed")
 
+local nothingSection = nothing:NewSection("9047104336")
 
-Wey Noooo [MEME]
+local nothingSection = nothing:NewSection("HORROR SCREAM 11 مرعب صراخ") 
 
-4907294065
+local nothingSection = nothing:NewSection("9043346124")
 
+local nothingSection = nothing:NewSection("Glamour International (b)")
 
-Lo-fi Chill A
+local nothingSection = nothing:NewSection("1842333602")
 
-9043887091
+local nothingSection = nothing:NewSection("حزينه اجنبيه اغنيه")
 
+local nothingSection = nothing:NewSection("6872126938")
 
-All 8 Bit Now
+local nothingSection = nothing:NewSection("HOT HOT HOT !")
 
-9048376021
+local nothingSection = nothing:NewSection("6783714255 ")
 
+local nothingSection = nothing:NewSection("money")
 
-No Smoking
+local nothingSection = nothing:NewSection("840080899") 
 
-9047105533
+local nothingSection = nothing:NewSection("سيارات ازعاجج  ! هههه")
 
+local nothingSection = nothing:NewSection("1735260932")
 
-Dombummel
+local nothingSection = nothing:NewSection("freeee")
 
-1845736826
+local nothingSection = nothing:NewSection("4829702007")
 
+local nothingSection = nothing:NewSection("مزعج قطار")
 
-Smooth Vibes (c)
+local nothingSection = nothing:NewSection("3900067524")
 
-9044565954
+local nothingSection = nothing:NewSection("ERROR Windows 7")
 
+local nothingSection = nothing:NewSection("1166082641")
 
-Violet Clouds
+local nothingSection = nothing:NewSection("Samsung")
 
-9046864489
+local nothingSection = nothing:NewSection("1107208252") 
 
 
-Sunday In Bed
+local nothingSection = nothing:NewSection("black bere WhatsApp") 
 
-9047104336
+local nothingSection = nothing:NewSection("6073491164")
 
+local nothingSection = nothing:NewSection("صراخ")
 
-HORROR SCREAM 11مرعب صراخ 
+local nothingSection = nothing:NewSection("8280196339") 
 
-9043346124
+local nothingSection = nothing:NewSection("ban ?")
 
+local nothingSection = nothing:NewSection("8819733010")
 
-Glamour International (b)
+local nothingSection = nothing:NewSection("ضعيف طرب")
 
-1842333602
+local nothingSection = nothing:NewSection("6893776529") 
 
+local nothingSection = nothing:NewSection("دباب (عن عن عن عننن)")
 
-حزينه اجنبيه اغنيه
-6872126938 
+local nothingSection = nothing:NewSection("6491883020")
 
-HOT HOT HOT !
-6783714255 
+local nothingSection = nothing:NewSection("SUS")
 
-money 
-840080899 
+local nothingSection = nothing:NewSection("7083210943") 
 
-سيارات ازعاجج  ! هههه
-1735260932 
+local nothingSection = nothing:NewSection("فورتنايت باتل باس SPAM")
 
-freeee
-4829702007
+local nothingSection = nothing:NewSection("8835210928")
 
-مزعج قطار 
-3900067524 
+local nothingSection = nothing:NewSection("هديها شوي لانه كرسي بينشق تحتك من كثر ما انت شاد عليها (دحومي 999)")
 
-ERROR Windows 7
- 1166082641 
+local nothingSection = nothing:NewSection("7644757406")
 
-Samsung 
-1107208252 
+local nothingSection = nothing:NewSection("FNF واقعي برد رد")
 
+local nothingSection = nothing:NewSection("6874146452")
 
-black bere WhatsApp 
-6073491164 
+local nothingSection = nothing:NewSection("sans loob ?")
 
-صراخ
-8280196339 
+local nothingSection = nothing:NewSection("8310237390")
 
-ban ?
-8819733010 
+local nothingSection = nothing:NewSection("قتل كيوت 1sec") 
 
-ضعيف طرب
-6893776529 
+local nothingSection = nothing:NewSection("7257241917")
 
-دباب (عن عن عن عننن)
-6491883020
+local nothingSection = nothing:NewSection("دادي عند تعال")  
 
+local nothingSection = nothing:NewSection("7984027399")
 
-SUS 
-7083210943 
+local nothingSection = nothing:NewSection("تشاااان اوونييي")
 
-فورتنايت باتل باس SPAM
-8835210928
+local nothingSection = nothing:NewSection("8833800231")
 
-هديها شوي لانه كرسي بينشق تحتك من كثر ما انت شاد عليها (دحومي 999)
-7644757406
+local nothingSection = nothing:NewSection("انيـ# اختـ# دلال سب") 
 
-FNF واقعي برد رد 
-6874146452 
+local nothingSection = nothing:NewSection("5849978429")
 
-sans loob ?
-8310237390 
+local nothingSection = nothing:NewSection("! خكري خكري عيال يا يبيه الي")
 
-قتل كيوت 1sec 
-7257241917 
-
-دادي عند تعال  
-7984027399 
-
-تشاااان اونيي 
-8833800231
-
-انيـ# اختـ# دلال سب 
-5849978429 
-
-! خكري خكري عيال يا يبيه الي
-5561403815")
-
-end)
+local nothingSection = nothing:NewSection("5561403815")
