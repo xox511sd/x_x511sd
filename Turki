@@ -42,8 +42,8 @@ scriptSection:NewButton("راقدول سكربت", "...", function()
     loadstring(game:HttpGet("https://gist.githubusercontent.com/H20CalibreYT/731b5052013a54de121debdd5e43fa6d/raw/"))()
 end)
 
-scriptSection:NewButton("real VR script", "VR ومعك الا تضغطه لا !!! ", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/vD8bS42i"))()
+scriptSection:NewButton("توك تيك شادر", "حلو الماب جو يخلي ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii")()
 end)
 
 scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
@@ -262,7 +262,7 @@ local nothingSection = nothing:NewSection("تشاااان اوونييي")
 
 local nothingSection = nothing:NewSection("8833800231")
 
-local nothingSection = nothing:NewSection("سب_| انيـ# اختـ# دلال_| ") 
+local nothingSection = nothing:NewSection("انيـ# اختـ# دلال") 
 
 local nothingSection = nothing:NewSection("5849978429")
 
