@@ -34,7 +34,7 @@ scriptSection:NewButton(" ", " ... ", function()
     https://pastebin.com/raw/xTUK0Bd4
 end)
 
-scriptSection:NewButton("Emotes script", "تبيها اي رقصه", function()
+scriptSection:NewButton("Emotes script", "رقصه تبيها اي", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/zJA7jdUd"))()
 end)
 
