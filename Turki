@@ -63,7 +63,7 @@ scriptSection:NewButton("Fly for Android", "ماب من بلوك بدون تطي
 end)
 
 scriptSection:NewButton(" ", " ... ", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N")(()
+    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N"))()
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
