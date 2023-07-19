@@ -30,8 +30,8 @@ scriptSection:NewButton("فروت بلوكس", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
 
-scriptSection:NewButton(" ", " ... ", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/xTUK0Bd4"))()
+scriptSection:NewButton("توك تيك شادر", "ليش مدري اضيفه حبيت", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii"))()
 end)
 
 scriptSection:NewButton("Emotes script", "رقصه تبيها اي", function()
