@@ -42,10 +42,6 @@ scriptSection:NewButton("راقدول سكربت", "...", function()
     loadstring(game:HttpGet("https://gist.githubusercontent.com/H20CalibreYT/731b5052013a54de121debdd5e43fa6d/raw/"))()
 end)
 
-scriptSection:NewButton("توك تيك شادر", "حلو الماب جو يخلي ", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii"))()
-end)
-
 scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
