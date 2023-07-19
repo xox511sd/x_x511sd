@@ -26,7 +26,7 @@ scriptSection:NewButton("الادمن سكربت", "infinite yield", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
 end)
 
-scriptSection:NewButton("فروت بلوكس", "infinite yield", function()
+scriptSection:NewButton("فروت بلوكس", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
 
