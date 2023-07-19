@@ -209,7 +209,6 @@ local nothingSection = nothing:NewSection("Samsung")
 
 local nothingSection = nothing:NewSection("1107208252") 
 
-
 local nothingSection = nothing:NewSection("black bere WhatsApp") 
 
 local nothingSection = nothing:NewSection("6073491164")
