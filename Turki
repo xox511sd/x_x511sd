@@ -2,7 +2,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("Turki's script", "LightTheme")
 
 --MAIN
-local Main = Window:NewTab("! علي اضغط سكربت نورت")
+local Main = Window:NewTab("تواصل...")
 
 local MainSection = Main:NewSection("V سنابي V")
 local MainSection = Main:NewSection("t44006")
@@ -11,11 +11,11 @@ local MainSection = Main:NewSection("x_x511sd")
 local MainSection = Main:NewSection("V مايك حسابي V")
 local MainSection = Main:NewSection("3ilx_T1")
 local MainSection = Main:NewSection("V ديسكورد V")
-local MainSection = Main:NewSection("ABU RANEEM#1913")
-local MainSection = Main:NewSection("قلي سكربت احط تبيني لو")
+local MainSection = Main:NewSection("alyamy#1913")
+local MainSection = Main:NewSection("حيه يالله")
 
 --LOCAL SCRIPT
-local script = Window:NewTab("سكربتات")
+local script = Window:NewTab("عشانه جاي الي هنا")
 local scriptSection = script:NewSection("سكربتاتي")
 
 scriptSection:NewButton("البيوت سكرب", "...?", function()
@@ -26,12 +26,12 @@ scriptSection:NewButton("الادمن سكربت", "infinite yield", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
 end)
 
-scriptSection:NewButton("الادمن سكربت", "infinite yield", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/IceHubAdmin/main/IceHub'))()    
+scriptSection:NewButton("فروت بلوكس", "infinite yield", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
 
-scriptSection:NewButton("سكربت IV ADMIN", "حاليا مقفل ... ", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hexx/main/Iv%20Admin/Admin%202.lua'))()
+scriptSection:NewButton(" ", " ... ", function()
+    https://pastebin.com/raw/xTUK0Bd4
 end)
 
 scriptSection:NewButton("Emotes script", "تبيها اي رقصه", function()
@@ -46,15 +46,15 @@ scriptSection:NewButton("real VR script", "VR ومعك الا تضغطه لا !!
     loadstring(game:HttpGet("https://pastebin.com/raw/vD8bS42i"))()
 end)
 
-scriptSection:NewButton("Survive and Kill the Killers in Area51", "", function()
+scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-scriptSection:NewButton("MM2", "", function()
+scriptSection:NewButton("MM2", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/3ilx_T1/main/mm2"))()
 end)
 
-scriptSection:NewButton("gravity gun", "!!! لاعبين بدون", function()
+scriptSection:NewButton("gravity gun", "لاعبين الا شي كل تطير يمديك", function()
     loadstring(game:HttpGet("https://gist.githubusercontent.com/bart3876478326746387/285ede5179a8787b175f3c9c212986dc/raw/9acf48c510d00319aa98e30311c0e04a84adf537/PHYSICS%2520GUN%2520V2%2520(DRAG%2520KO%2520PEOPLE"))()
 end)
 
@@ -62,8 +62,8 @@ scriptSection:NewButton("Fly for Android", "ماب من بلوك بدون تطي
     loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
 end)
 
-scriptSection:NewButton("قتل ؟؟؟ ", " :> نسيت وش يسوي ", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Makramdaca/dacca/main/.github/workflows/blank.yml"))()
+scriptSection:NewButton(" ", " ... ", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N"))()
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
@@ -262,7 +262,7 @@ local nothingSection = nothing:NewSection("تشاااان اوونييي")
 
 local nothingSection = nothing:NewSection("8833800231")
 
-local nothingSection = nothing:NewSection("انيـ# اختـ# دلال سب") 
+local nothingSection = nothing:NewSection("سب_| انيـ# اختـ# دلال_| ") 
 
 local nothingSection = nothing:NewSection("5849978429")
 
