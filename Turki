@@ -31,7 +31,7 @@ scriptSection:NewButton("فروت بلوكس", " ", function()
 end)
 
 scriptSection:NewButton(" ", " ... ", function()
-    https://pastebin.com/raw/xTUK0Bd4
+    loadstring(game:HttpGet("https://pastebin.com/raw/xTUK0Bd4"))()
 end)
 
 scriptSection:NewButton("Emotes script", "رقصه تبيها اي", function()
@@ -43,7 +43,7 @@ scriptSection:NewButton("راقدول سكربت", "...", function()
 end)
 
 scriptSection:NewButton("توك تيك شادر", "حلو الماب جو يخلي ", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii")()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii"))()
 end)
 
 scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
@@ -63,7 +63,7 @@ scriptSection:NewButton("Fly for Android", "ماب من بلوك بدون تطي
 end)
 
 scriptSection:NewButton(" ", " ... ", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N")(()
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
