@@ -63,7 +63,7 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-scriptSection:NewButton(" ", " ... ", function()
+scriptSection:NewButton("fly car", " ...? ", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/fhfyg4kF"))()
 end)
 
