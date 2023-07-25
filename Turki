@@ -64,7 +64,7 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
 end)
 
 scriptSection:NewButton(" ", " ... ", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/0yGBYL4N"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/fhfyg4kF"))()
 end)
 
 --Other
