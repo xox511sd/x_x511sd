@@ -16,7 +16,7 @@ local MainSection = Main:NewSection("حيه يالله")
 
 --LOCAL SCRIPT
 local script = Window:NewTab("عشانه جاي الي هنا")
-local pt = Window:NewTab("اموني")
+
 local scriptSection = script:NewSection("سكربتاتي")
 
 scriptSection:NewButton("البيوت سكرب", "...?", function()
