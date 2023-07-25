@@ -64,7 +64,7 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
 end)
 
 scriptSection:NewButton(" ", " ...? ", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md"))()
 end)
 
 --Other
