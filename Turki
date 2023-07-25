@@ -63,8 +63,8 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-scriptSection:NewButton("fly car", " ...? ", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md')()
+scriptSection:NewButton(" ", " ...? ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md'))()
 end)
 
 --Other
