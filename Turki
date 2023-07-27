@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"IAMTURKY))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Turki's script", "DarkTheme")
 
 --MAIN
@@ -64,7 +64,7 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
 end)
 
 scriptSection:NewButton(" ", " ...? ", function()
-    loadstring(game:HttpGet(" "))()
+    loadstring(game:HttpGet(" ,)()
 end)
 
 --Other
