@@ -60,7 +60,7 @@ scriptSection:NewButton("راقدول سكربت", "...", function()
 end)
 
 scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
-    loadtring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
 scriptSection:NewButton(" ", " ...? ", function()
