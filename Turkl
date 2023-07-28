@@ -21,7 +21,7 @@ local scriptSection = script:NewSection("سكربتاتي")
 
 scriptSection:NewButton("البيوت سكرب", "...?", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
-end)
+end) 
 
 scriptSection:NewButton("الادمن سكربت", "infinite yield", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
