@@ -27,8 +27,16 @@ scriptSection:NewButton("الادمن سكربت", "infinite yield", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
 end)
 
-scriptSection:NewButton("فروت بلوكس", " ", function()
+scriptSection:NewButton("1 فروت بلوكس", "Mama Hup", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
+end)
+
+scriptSection:NewButton("2 فروت بلوكس", "free script", function()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()   
+end)
+
+scriptSection:NewButton("3 فروت بلوكس", "Hoho Hup", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()   
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
