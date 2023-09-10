@@ -31,12 +31,12 @@ scriptSection:NewButton("1 فروت بلوكس", "Mama Hup", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
 
-scriptSection:NewButton("spy", "ناس خاص تشوف تقدر", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/Q2atuWxh")()   
-end)
-
 scriptSection:NewButton("2 فروت بلوكس", "Hoho Hup", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()   
+end)
+
+scriptSection:NewButton("spy", "ناس خاص تشوف تقدر", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Q2atuWxh")()   
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
