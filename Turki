@@ -36,7 +36,7 @@ scriptSection:NewButton("2 فروت بلوكس", "Hoho Hup", function()
 end)
 
 scriptSection:NewButton("spy", "ناس خاص تشوف تقدر", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/Q2atuWxh"))()   
+    loadstring(game:HttpGet('https://pastebin.com/raw/Q2atuWxh'))()   
 end)
 
 scriptSection:NewButton("ساميليتور بت", "...", function()
