@@ -270,10 +270,10 @@ local nothingSection = nothing:NewSection("! عيال اليي يبيهه خكر
 
 local nothingSection = nothing:NewSection("5561403815")
 
-local HHHH = Window:NewTab("مخصص لحمود")
+local HHHHH = Window:NewTab("مخصص لحمود")
 
-local HHHH = nothing:NewSection("ايها زطي اللعين ...")
+local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
 
-local HHHH = nothing:NewSection("منيججججججججججججججججج")
+local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
 
-local HHHH = nothing:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
+local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
