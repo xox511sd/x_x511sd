@@ -2,20 +2,20 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("Turki's script", "DarkTheme")
 
 --MAIN
-local Main = Window:NewTab("تواصل...")
+local Main = Window:NewTab("التواصل")
 
 local MainSection = Main:NewSection("V سنابي V")
 local MainSection = Main:NewSection("t44006")
 local MainSection = Main:NewSection("V الاصلي حسابي V")
 local MainSection = Main:NewSection("x_x511sd")
 local MainSection = Main:NewSection("V مايك حسابي V")
-local MainSection = Main:NewSection("3ilx_T1")
+local MainSection = Main:NewSection("Rttllp")
 local MainSection = Main:NewSection("V ديسكورد V")
-local MainSection = Main:NewSection("alyamy#1913")
+local MainSection = Main:NewSection("t44006")
 local MainSection = Main:NewSection("حيه يالله")
 
 --LOCAL SCRIPT
-local script = Window:NewTab("عشانه جاي الي هنا")
+local script = Window:NewTab("سكربتات")
 
 local scriptSection = script:NewSection("سكربتاتي")
 
@@ -273,3 +273,9 @@ local nothingSection = nothing:NewSection("5849978429")
 local nothingSection = nothing:NewSection("! خكري خكري عيال يا يبيه الي")
 
 local nothingSection = nothing:NewSection("5561403815")
+
+local HHHH = Window:NewTab("لحمود مخصص")
+
+local HHHH = nothing:NewSection("اللعين زطي ايها ...")
+
+local HHHH = nothing:NewSection("منيججججججججججججججججج")
