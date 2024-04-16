@@ -72,7 +72,7 @@ scriptSection:NewButton(" ", " ...? ", function()
 end)
 
 --Other
-local nothing = Window:NewTab(":D سكربت استخدمت لانك شكرا")
+local nothing = Window:NewTab(":D شكرا لانك استخدمت سكربت")
 local nothingSection = nothing:NewSection("اغاني اكواد")
 local nothingSection = nothing:NewSection("Relaxed Scene")
 
